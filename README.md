@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FullmetalCoder-Neal
 - 👀 I’m interested in front-end devlopment
+- 📫 How to reach me <neal1991@qq.com>
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me <neal1991@qq.com>
 
 <!---
 FullmetalCoder-Neal/FullmetalCoder-Neal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
